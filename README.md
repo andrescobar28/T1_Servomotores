@@ -10,6 +10,7 @@ Facultad: FACULTAD DE INGENIERÍA
 Institución: UNIVERSIDAD DEL VALLE
 
 #### SIMULACIÓN ARDUINO UNO TINKERCAD: https://www.tinkercad.com/things/0yLwIBQCWmJ
+#### NOTA: El laboratorio se desarrolla y ajusta a ARDUINO NANO.
 
 1. Los servos (también conocidos como actuadores) son esenciales para el funcionamiento de la mayoría de los UAV* porque proporcionan la capacidad de mover las superficies de control.
 
