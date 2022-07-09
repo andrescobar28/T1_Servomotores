@@ -1,2 +1,10 @@
-# T1_Servomotores
- SEVILLANO-RAMIREZ, V. & ESCOBAR-CARDONA, A.J.
+# Taller 1: Control de Servomotor con ARDUINO NANO - Vista LED
+### Autores: SEVILLANO-RAMIREZ, V. & ESCOBAR-CARDONA, A.J.
+
+Programa Académico: INGENIERÍA TOPOGRÁFICA
+
+Escuela: ESCUELA DE INGENIERÍA CIVIL Y GEOMÁTICA
+
+Facultad: FACULTAD DE INGENIERÍA
+
+Institución: UNIVERSIDAD DEL VALLE
