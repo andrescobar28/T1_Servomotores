@@ -9,6 +9,8 @@ Facultad: FACULTAD DE INGENIERÍA
 
 Institución: UNIVERSIDAD DEL VALLE
 
+#### SIMULACIÓN ARDUINO UNO TINKERCAD: https://www.tinkercad.com/things/0yLwIBQCWmJ
+
 1. Los servos (también conocidos como actuadores) son esenciales para el funcionamiento de la mayoría de los UAV* porque proporcionan la capacidad de mover las superficies de control.
 
 * algunos UAV multirotor utilizan solo el control de velocidad de motores individuales para lograr un control aerodinámico.
